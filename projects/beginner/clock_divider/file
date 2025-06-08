@@ -1,0 +1,1 @@
+g++ -I/opt/systemc-latest/include -L/opt/systemc-latest/lib -lsystemc main.cpp clock_div.cpp -std=c++17 -o clock_div
